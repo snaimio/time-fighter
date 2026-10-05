@@ -31,8 +31,8 @@
 ## 🚀 Setup & Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/snaimio/TimeFighter.git
-   cd TimeFighter
+   git clone https://github.com/snaimio/time-fighter.git
+   cd time-fighter
    ```
 2. Open in **Android Studio** and press `Run`.
 
